@@ -13,36 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOPS - 1 - in.md",
+                "file": "OOPS - 1 - inh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OOPS - 1 - in"
+              "title": "OOPS - 1 - inh"
             }
           },
           {
-            "id": "9955e8a181840bee",
+            "id": "861d9df4ac814bae",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Casting.png"
+                "file": "OOPS - 4 more.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Casting"
-            }
-          },
-          {
-            "id": "767b1a85db1b94bd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Casting.png"
-              },
-              "icon": "lucide-image",
-              "title": "Casting"
+              "icon": "lucide-file",
+              "title": "OOPS - 4 more"
             }
           }
         ],
@@ -103,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5afa7687da489fbf",
@@ -193,18 +184,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9955e8a181840bee",
+  "active": "861d9df4ac814bae",
   "lastOpenFiles": [
-    "OOPS - 2 - poly.md",
+    "OOPS - 1 - inh.md",
+    "OOPS - 4 more.md",
+    "OOPS - 3 abs.md",
+    "5-OOPs - working.md",
+    "4-OOPS - intro.md",
+    "3-Non Primitive.md",
+    "2-Primitive.md",
+    "1-Intro.md",
     "images/Casting.png",
-    "OOPS - 1 - in.md",
-    "OOPS - 3.md",
-    "OOPS - intro.md",
-    "OOPs - working.md",
-    "Non Primitive.md",
-    "Primitive.md",
+    "OOPS - 2 - poly.md",
     "images/Java-working.png",
-    "Intro.md",
     "images"
   ]
 }
