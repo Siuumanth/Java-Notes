@@ -276,7 +276,9 @@ public class TestSerialize {
 - **Marker interfaces** signal metadata (no methods).
 - **Serialization** uses the `Serializable` marker to convert objects to byte streams for storage or transfer.
 
-Let me know if you'd like to add examples for custom serialization, `Externalizable`, or versioning using `serialVersionUID`.
+
+
+---
 
 
 
